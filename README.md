@@ -11,7 +11,7 @@ The game we chose to design is a poker game of five card draw. In which, each pl
 # 3.1 Random
 An array of cards denotation is randomized. The n-th card belongs to player ((n modulo m) + 1), where m is the number of player.
 # 3.2 Data Structure
-A class of player, which includes the player's name, players' wealth, sorted hands, and an index returned by search in rank.txt, for storing game # status and facilitating hands comparison.
+A class of player, which includes the player's name, players' wealth, sorted hands, and an index returned by search in rank.txt, for storing game status and facilitating hands comparison.
 # 3.3 Dynamic Memory
 A vector of the player class, supporting a varying number of player from at least 1 to at most 10.
 # 3.4.1 File Manipulation
