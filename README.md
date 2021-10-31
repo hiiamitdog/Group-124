@@ -1,8 +1,8 @@
 # 1. Identification:
-Group 124
-Poker Game of Five Card Draw
-Contributed by Chung Yiu San
-And by Lam Wu, Kevin
+Group 124;
+Poker Game of Five Card Draw;
+Contributed by Chung Yiu San;
+And by Lam Wu, Kevin;
 
 # 2. Description:
 The game we chose to design is a poker game of five card draw. In which, each player would be dealt five cards from a deck of 52. The winner is determined based on the ranks of the five hands. A primary program handles the courses of a game, including but not limited to asking the number of players, initializing the deck, announcing the winner. A secondary program is required to generate a text file, called "rank.txt" which ranks all 2,598,960 distinct combinations of hands, in descending order of ranks to return a corresponding index.
