@@ -58,23 +58,23 @@ The rank of suits in descending order is:
 
 2) Execute the game by entering "./p" in the terminal.
 
-1) A main menu will be displayed upon execution. In the main menu, there are 3 options to choose from:
-        1. Start a new round (by entering "1")
-        2. View hall of fame (by entering "2") [Hall of fame records all the hands in previous gameplays]
-        3. Exit game (by entering "3")
+1) A main menu will be displayed upon execution. In the main menu, there are 3 options to choose from: <br />
+        1. Start a new round (by entering "1") <br />
+        2. View hall of fame (by entering "2") [Hall of fame records all the hands in previous gameplays] <br />
+        3. Exit game (by entering "3") <br />
 
-2) By entering "1":
-        A. Enter the number of players in this round, then enter the name of each player one by one.
-        B. 5 cards will be randomly dealt to each player.
-        C. Hands of each player will be shown, in descending order of each hand's ranking. The player with the greatest ranking will be announced winner.
-        D. Enter 'Y' or 'y' record all the hands in this round into Hall of fame, so that they can be reviewed anytime through hall of fame in the main menu; enter 'N' or 'n' otherwise. 
-        E. Main menu will be displayed.
+2) By entering "1": <br />
+        A. Enter the number of players in this round, then enter the name of each player one by one. <br />
+        B. 5 cards will be randomly dealt to each player. <br />
+        C. Hands of each player will be shown, in descending order of each hand's ranking. The player with the greatest ranking will be announced winner. <br />
+        D. Enter 'Y' or 'y' record all the hands in this round into Hall of fame, so that they can be reviewed anytime through hall of fame in the main menu; enter 'N' or 'n' otherwise. <br />
+        E. Main menu will be displayed. <br />
 
-3) By entering "2":
-        A. You can view all the 'admitted' hands in previous rounds, up to 99 recent records.
-        B. Each hand will be displayed in lines of < player > < player's hand >.
+3) By entering "2": <br />
+        A. You can view all the 'admitted' hands in previous rounds, up to 99 recent records. <br />
+        B. Each hand will be displayed in lines of < player > < player's hand >. <br />
 
-4) By entering "3":
-        A. The game will be closed.
+4) By entering "3": <br />
+        A. The game will be closed. <br />
 
 5) Good day and enjoy the game! :)
