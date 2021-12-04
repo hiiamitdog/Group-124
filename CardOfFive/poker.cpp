@@ -5,6 +5,7 @@
 #include <list>
 #include <vector>
 #include <fstream>
+#include <algorithm>
 #include "printCard.h"
 #include "printMenu.h"
 using namespace std;
